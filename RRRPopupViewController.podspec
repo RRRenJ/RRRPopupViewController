@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                     PopupViewController_swift
                    DESC
-  s.homepage     = "https://github.com/RRRenJ/PopupViewController"
+  s.homepage     = "https://github.com/RRRenJ/RRRPopupViewController"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "RRRenJ" => "https://github.com/RRRenJ" }
-  s.source       = { :git => "https://github.com/RRRenJ/PopupViewController.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/RRRenJ/RRRPopupViewController.git", :tag => s.version }
 
 
   s.source_files  = "RRRPopupViewController/*.swift"
