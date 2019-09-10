@@ -1,0 +1,16 @@
+PODS:
+  - PopupViewController (0.0.1)
+
+DEPENDENCIES:
+  - PopupViewController (from `../`)
+
+EXTERNAL SOURCES:
+  PopupViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PopupViewController: 5aad3ea8328423632774ebca188f660d6a8c9d14
+
+PODFILE CHECKSUM: 1ef3c94452a98fa10518d7d030013a7b6ae2ec6c
+
+COCOAPODS: 1.6.1
